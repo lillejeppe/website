@@ -1,0 +1,104 @@
+body {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    color: black;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+h1 {
+    color: black;
+    border-bottom: 10px;
+    border-bottom-color: black;
+}
+
+ul {
+    color: black;
+    font-size: 18px;
+}
+
+a {
+    color: blue;
+}
+
+h2 {
+    color: black;
+}
+
+#test {
+    width: 1000px;
+    background-color: white;
+    margin: auto;
+}
+
+#next {
+    width: 60px;
+    height: 40px;
+    background-color: white;
+    margin: auto;
+}
+
+#LOL {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 60px;
+    color: black;
+    margin: 20px;
+    line-height: 50px;
+}
+
+#test2 {
+    width: 1000px;
+    background-color: white;
+    margin: auto;
+}
+
+#test3 {
+    width: 700px;
+    background-color: white;
+    padding: 10px;
+    margin: 20px;
+}
+
+#test4 {
+    background-color: white;
+}
+
+#htx {
+    width: 1940px;
+    height: 25px;
+    background-color: rgb(24, 117, 124);
+    display: inline-block;
+    vertical-align: top;
+    margin: auto;
+}
+
+#test5 {
+    width: 1940px;
+    height: 25px;
+    background-color: rgb(24, 117, 124);
+    display: inline-block;
+    vertical-align: top;
+    margin: auto;
+}
+
+#random {
+    width: 1940px;
+    height: 25px;
+    background-color: rgb(24, 117, 124);
+    display: inline-block;
+    vertical-align: top;
+    margin: auto;
+}
+
+#duna {
+    width: 1940px;
+    height: 25px;
+    background-color: rgb(24, 117, 124);
+    display: inline-block;
+    vertical-align: top;
+    margin: auto;
+}
